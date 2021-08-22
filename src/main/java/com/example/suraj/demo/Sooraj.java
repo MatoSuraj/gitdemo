@@ -1,6 +1,6 @@
 package com.example.suraj.demo;
 
-public class Rishab {
+public class Sooraj {
 	public static void main (String[] args)
 	{
 int a =10;
